@@ -1,13 +1,11 @@
 # Data Challenge by SAS
 
-**Date:** Sep 27, 2020
-
 ### Overview:
 Address the challenges to validate and manipulate the dataset
 appropriately using SAS Studio software.
 
 ### Output:
-[SAS workfile](https://github.com/Wenying-Wu/Data-Challenge-by-SAS/blob/main/Data%20Challenge%20by%20SAS.sas)
+[SAS workfile](https://github.com/wenyingw/Data-Challenge-by-SAS/blob/main/Data%20Challenge%20by%20SAS.sas)
 
 
 
@@ -27,3 +25,6 @@ Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical L
 9780387848570
 
 SAS e-learning: https://www.sas.com/en_au/learn/academic-programs/resources/free-sas-e-learning.html
+
+
+<sub><sup>Edit on Sep 27, 2020</sup></sub>
