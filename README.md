@@ -1,5 +1,4 @@
 # Data Challenge by SAS
-**By:** Wenying Wu
 
 **Date:** Sep 27, 2020
 
